@@ -50,9 +50,10 @@ To become a **highly skilled AI Engineer and Data Scientist**, creating impactfu
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dansenga&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansenga&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dansenga&show_icons=true&count_private=true&theme=tokyonight" alt="Dan Senga GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansenga&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </div>
+
 
 ---
 
