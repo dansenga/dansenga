@@ -108,7 +108,7 @@ Secure medical image transfer using **ZeroTier + SFTP**
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/dansenga/dansenga/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/dansenga/dansenga/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
