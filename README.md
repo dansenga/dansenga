@@ -5,9 +5,6 @@
 Passionate about Artificial Intelligence, Backend Development and Data Analysis.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dansenga&label=Profile%20views&color=0e75b6&style=flat" alt="dansenga" />
-</p>
 
 ---
 
