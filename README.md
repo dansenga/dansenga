@@ -8,20 +8,20 @@ Building software and exploring how Artificial Intelligence can solve real-world
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Software Engineering student** passionate about:
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Deep Learning & Computer Vision
-* 🩺 AI for Healthcare & Medicine
-* ⚙️ Backend & Software Engineering
+*  Artificial Intelligence & Machine Learning
+*  Deep Learning & Computer Vision
+*  AI for Healthcare & Medicine
+*  Backend & Software Engineering
 
 I learn by **building projects, researching, experimenting, and continuously improving**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -42,9 +42,9 @@ I learn by **building projects, researching, experimenting, and continuously imp
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🩺 Breast Cancer Detection
+### Breast Cancer Detection
 
 Deep learning project exploring **CNNs and mammography images** for breast cancer detection.
 
@@ -58,7 +58,7 @@ AI-focused project exploring the intersection of **Artificial Intelligence, medi
 
 ---
 
-## 🎯 Direction
+## Direction
 
 **Software Engineering + Artificial Intelligence + Healthcare**
 
@@ -68,7 +68,7 @@ My goal is to become a strong engineer capable of designing and building intelli
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dansenga&show_icons=true&hide_border=true" height="160">
@@ -77,7 +77,7 @@ My goal is to become a strong engineer capable of designing and building intelli
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 <p>
   <a href="https://www.linkedin.com/in/dan-senga-099569376">
